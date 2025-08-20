@@ -35,9 +35,8 @@ Language: Java
 1. Save the file as ATMInterfaceApp.java.
 
 2. Run the program:
-
-java ATMInterfaceApp
+   java ATMInterfaceApp
 
 ✅ Future Enhancement
 
-Real-time banking features with file/DB storage.
+Real-time banking features
